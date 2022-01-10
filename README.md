@@ -7,6 +7,6 @@ My areas of interest are commercial law, contract law and property law. In parti
 
 I'm currently working on a final draft of my paper, ['On the Fairness of Fake Data in Legal AI'](https://arxiv.org/abs/2009.04640) that has been accepted to the peer-reviewed [*AI Ethics Journal*](https://www.aiethicsjournal.org). 
 
-Outside of my professional life, you can find me in the kitchen baking sweet treats, reading or wrestling with whether or not I should stop paying the newstand price and actually get a subscription for *The Economist*. Currently I'm reading 'The Fabric of the Cosmos' by Brian Green.
+Outside of my professional life, you can find me in the kitchen baking sweet treats, reading or wrestling with whether or not I should stop paying the newstand price and actually get a subscription for *The Economist*. Currently I'm reading 'The Fabric of the Cosmos' by Brian Greene.
 
 [LinkedIn](https://www.linkedin.com/in/lauren-boswell-b40b20100/)
