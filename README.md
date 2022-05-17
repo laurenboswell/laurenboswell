@@ -1,6 +1,6 @@
 # About Me
 ## Hello there, I'm Lauren!
-I'm a final year Juris Doctor Student at the University of Sydney. Before law school, I completed a masters in Cultural Heritage Studies at the University College London. Law became my fixation when I started spending more time sitting in lectures for 'Antiquities and the Law' than any of my actual assessed electives. After graduating and making a half-hearted attempt to put my degress to use by pursuing a career analysing qualitative data,  I made the plunge to go back to university pursuing law.  
+I'm a law graduate working at Holding Redlich in the construction, infrastructure and projects team. Before law school, I completed a masters in Cultural Heritage Studies at the University College London. Law became my fixation when I started spending more time sitting in lectures for 'Antiquities and the Law' than any of my actual assessed electives. After graduating and making a half-hearted attempt to put my degress to use by pursuing a career analysing qualitative data,  I made the plunge to go back to university pursuing law.  
 
 
 My areas of interest are commercial law, contract law and property law. In particular, I'm interested in the dynamic multinational contracts and intellectual property markets.  I also have an interest in AI and its interactions with the law. So far I've focussed on the use of AI within the judicial system itself, but now I've began to turn my interest to how the private sector's overwhelming use of AI and technology is challenging long venerated legal principles. 
